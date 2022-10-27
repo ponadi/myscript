@@ -1,0 +1,2 @@
+# myscript
+tidak ada komentar
